@@ -1,0 +1,34 @@
+body {
+    padding: 10px 50px;
+}
+
+.formdesign {
+    font-size: 20px;
+}
+
+.formdesign input {
+    width: 50%;
+    padding: 10px 20px;
+    border: 1px solid rgb(0, 255, 123);
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.formerror {
+    color: red;
+}
+
+.btn {
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+
+    font-size: 20px;
+    margin: 15px 5px;
+}
+
+.btn:hover {
+    color: aqua;
+    cursor: pointer;
+}
